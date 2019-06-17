@@ -1,0 +1,10 @@
+node_modules
+.project
+package-lock.json
+.DS_Store
+build
+/src/scripts/*.min.js
+/src/scripts/*.js.map
+/src/styles/*.css
+/src/styles/*.css.map
+/src/*.html
